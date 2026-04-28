@@ -1,6 +1,6 @@
 {% set name = "tw"%}
-{% set version = "0.16.0" %}
-{% set sha256 = "84e6803e6703b6d8626483314eb0b8b34e7b85029009dd48062c917972c7cdc9" %}
+{% set version = "0.27.0" %}
+{% set sha256 = "90e3e2b49670d7755528375bf8232ef70b3f4fadc79b6526e6021644ceb8a780" %}
 
 package:
   name: tower-cli

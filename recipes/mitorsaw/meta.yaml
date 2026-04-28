@@ -1,6 +1,6 @@
 {% set name = "mitorsaw" %}
-{% set version = "0.2.6" %}
-{% set sha256 = "e82faddeea293b79352067685a143ea43f9e39357cebb49f3f68d897875ebc0b" %}
+{% set version = "0.2.9" %}
+{% set sha256 = "b21180304b5d7ae77b7032033c8a5c5b1faee89adb5ff8e82fbf8cd8f0126c86" %}
 
 package:
   name: {{ name }}

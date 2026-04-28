@@ -1,6 +1,6 @@
 {% set name = "nf-core" %}
-{% set version = "3.5.1" %}
-{% set sha256 = "12fc80d7005d841ca647691020bb155f6865a50c8933e7caee570e5b1ce69c00" %}
+{% set version = "4.0.0" %}
+{% set sha256 = "9fb109ed9881ad3dc04d2127fa1747c7ecdf4fe8703e96acf4fb1bc5cd9d0bb8" %}
 
 package:
   name: {{ name|lower }}

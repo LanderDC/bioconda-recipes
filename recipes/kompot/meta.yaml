@@ -1,5 +1,5 @@
 {% set name = "kompot" %}
-{% set version = "0.6.1" %}
+{% set version = "0.7.0" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: "https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz"
-  sha256: b285d4c4d77c1d3994489e8efc2fbb6381e3d9996358b8bcb7179fc11f41701d
+  sha256: bc9c44465e2d398871bfffff071827efa65352c463bca775364ea1e5f7ad6750
 
 build:
   number: 0

@@ -1,6 +1,6 @@
 {% set name = "fastreeR" %}
-{% set version = "2.1.2" %}
-{% set sha256 = "1e38d3579aae785ef6719eb12022ad2e8c50adbc5a325b231b8a1793395c77d2" %}
+{% set version = "2.1.6" %}
+{% set sha256 = "7a30cf81bbbd1897b61918a518305d5028d5f63f4206b3594b58e4373e3d5a4d" %}
 
 package:
   name: {{ name|lower }}
